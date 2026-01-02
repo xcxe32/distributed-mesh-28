@@ -1,0 +1,1 @@
+const util_1tak = (d: any) => d;
